@@ -1,7 +1,7 @@
 {
   "name": "skeleton",
+	"repo": "git@github.com:solutionio/skeleton.git",
   "description": "A css theme",
-  "version": "0.0.1",
   "keywords": ["theme"],
   "dependencies": {},
   "styles": ["stylesheets/base.css", "stylesheets/layout.css", "stylesheets/skeleton.css"]
